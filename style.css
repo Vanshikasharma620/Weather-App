@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Fredoka+One&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova&family=Poppins&display=swap');
 body{ 
     /* opacity: 0.6; */
     min-height: 100vh;
@@ -8,12 +6,12 @@ body{
     background-image: url("sky-690293__480.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: 'Crete Round', serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 #heading{
     opacity: 1;
-    font-family: 'Crete Round', serif;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     font-size: 4rem;
     font-weight: bolder;

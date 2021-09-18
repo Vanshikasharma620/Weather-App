@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Fredoka+One&display=swap');
+
+
+body{ 
+    /* opacity: 0.6; */
+    min-height: 100vh;
+    max-width: 100%;
+    background-image: url("sky-690293__480.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Crete Round', serif;
+}
+
+#heading{
+    opacity: 1;
+    font-family: 'Crete Round', serif;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bolder;
+}
+form{
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    opacity: 1;
+    margin-top: 100px;
+}
+#city::placeholder{
+    color: black;
+    text-align: center;
+}
+#city{
+    min-width: 60%;
+    font-size: 2rem;
+    color: black;
+    outline: none;
+    border-radius: 20px;
+    padding-left: 20px;
+    background-color: transparent;
+}
+.text{
+    text-align: center;
+}
+
+
+
+.hide{
+    display: none;
+}
+#showdata{
+    width:300px;
+    margin: auto;
+    margin-top: 100px;
+    opacity: 1;
+}
